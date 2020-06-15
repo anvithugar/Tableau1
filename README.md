@@ -1,3 +1,3 @@
 # Tableau1
 
-Please download the dataset available in the repository
+Please download the Cityrentals dataset available in the repository
